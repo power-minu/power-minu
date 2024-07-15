@@ -4,10 +4,10 @@
 <br></br>
 ## 🛠️ Stack
 ### FE
-#### React Native
+React Native
 ### BE
-#### Spring
-#### Django
+Spring
+Django
 
 </div>
 
