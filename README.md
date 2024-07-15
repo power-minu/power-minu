@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 👋 안녕하세요. 홍익대학교 컴퓨터공학과 19학번 4학년 재학중인 백엔드 개발자 김민우입니다.
-<br/>
+
 ## 🛠️ Stack
 ### FE
 #### React Native
