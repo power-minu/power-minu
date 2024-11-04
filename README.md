@@ -31,5 +31,5 @@
 
 ###  📩 Contact 
   <a href="https://github.com/power-minu">![image](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)</a>
-  <a href="https://https://highspeed.tistory.com/">![image](https://img.shields.io/badge/Tistory-184D66?style=flat-square&logo=Telegraph&logoColor=white)</a>
+  <a href="https://highspeed.tistory.com">![image](https://img.shields.io/badge/Tistory-184D66?style=flat-square&logo=Telegraph&logoColor=white)</a>
   <a href="mailto:mw0677@naver.com" target="_blank">![image](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)</a>
